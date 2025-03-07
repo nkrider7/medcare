@@ -27,25 +27,25 @@ export const AboutPageData:AboutPageData = {
     social:[
         {
             name:"facebook",
-            url:"https://www.facebook.com/profile.php?id=100040951937272&mibextid=ZbWKwL",
+            url:"https://www.facebook.com",
             icon:<Facebook />
         },
         {
             name:"instagram",
-            url:"https://www.instagram.com/medihelpglobal/profilecard/?igsh=MWJhejJ0cTd0cmd3aA==",
+            url:"https://www.instagram.com",
             icon:<Instagram />
         },
         {
             name:"youtube",
-            url:"https://youtube.com/@medihelpglobal?si=6ejgn6QYEyJWhE-p",
+            url:"https://youtube.com",
             icon:<Youtube />
         }
     ],
     contact:{
-        email: "info@medihelpglobal.com",
-        supportEmail: "help@medihelpglobal.com",
-        phone: "+91 98971 86585",
-        address: "Shaheen Bagh, Okhla, New delhi - 110025"
+        email: "info@MedCareglobal.com",
+        supportEmail: "help@MedCareglobal.com",
+        phone: "+91987654321 ",
+        address: "123, XYZ Street, ABC City, Country - 123456"
     },
     about: [
         {

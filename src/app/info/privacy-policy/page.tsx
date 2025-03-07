@@ -9,7 +9,7 @@ const PRIVACY_POLICY: PrivacyPolicy[] = [
 	{
 		title: "1. Introduction",
 		content:
-		  "MediHelp is committed to protecting your privacy and ensuring the confidentiality of your medical and personal information. This policy explains how we collect, use, and safeguard your data in compliance with applicable healthcare privacy regulations."
+		  "MedCare is committed to protecting your privacy and ensuring the confidentiality of your medical and personal information. This policy explains how we collect, use, and safeguard your data in compliance with applicable healthcare privacy regulations."
 	  },
 	  {
 		title: "2. Information We Collect",
@@ -54,7 +54,7 @@ const PRIVACY_POLICY: PrivacyPolicy[] = [
 	  {
 		title: "10. Contact Us",
 		content:
-		  "If you have any questions or concerns about this policy or your data, please contact us at privacy@medihelpglobal.com."
+		  "If you have any questions or concerns about this policy or your data, please contact us at privacy@MedCareglobal.com."
 	  }
 ];
 

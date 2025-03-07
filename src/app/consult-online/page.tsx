@@ -270,7 +270,7 @@ const PatientForm: React.FC = () => {
                         <Link href="/info/privacy-policy" className="text-blue-600">
                             Privacy Policy
                         </Link>{" "}
-                        of MediHelp Global.
+                        of MedCare Global.
                     </p>
                 </form>
             </div>

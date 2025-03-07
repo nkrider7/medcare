@@ -16,7 +16,7 @@ export const sendingMail = () => {
 		<div className="flex justify-center items-center h-10 p-2">
 			<Image src={sendGif} height={40} width={40} alt="ani" />
 		    <div className="ml-2">
-				<h1 className="font-semibold ">Sending Mail to Medihelp 💖 </h1>
+				<h1 className="font-semibold ">Sending Mail to MedCare 💖 </h1>
 			</div>
 		</div>
 	)
@@ -28,7 +28,7 @@ export const sendSuccuss = () => {
 		<div className="flex justify-center items-center h-10 p-2">
 			<Image src={succussGif} height={40} width={40} alt="ani" />
 		    <div className="ml-2">
-				<h1 className="font-semibold ">Successfully Send to Medihelp 💖 </h1>
+				<h1 className="font-semibold ">Successfully Send to MedCare 💖 </h1>
 			</div>
 		</div>
 	)

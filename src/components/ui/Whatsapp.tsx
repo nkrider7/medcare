@@ -7,7 +7,7 @@ export default function Whatsapp() {
 	const sendWhatsApp = useSendWhatsApp();
 
     return (
-		<Button onClick={() => sendWhatsApp({ message: "Hello Medihelp Global" })} className='bg-green-500 font-semibold flex justify-center items-center  hover:bg-green-700'>
+		<Button onClick={() => sendWhatsApp({ message: "Hello MedCare Global" })} className='bg-green-500 font-semibold flex justify-center items-center  hover:bg-green-700'>
             <svg className='scale-125' fill="white" height="1200px" width="1200px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink"
                 viewBox="0 0 308 308" xmlSpace="preserve">
                 <g id="XMLID_468_">

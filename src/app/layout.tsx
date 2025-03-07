@@ -17,7 +17,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Medi Help Global",
+  title: "MedCare",
   description: "Connecting Top Medical Care Quality Medical Treatment 24/7 You to Trusted Medical Care Worldwide",
 };
 

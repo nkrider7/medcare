@@ -44,8 +44,8 @@ export default function Navbar() {
             aria-label="logo"
           >
             <Image
-              src="/medilogo.webp"
-              alt="MediHelp"
+              src="/medcare.webp"
+              alt="MedCare"
               width={200}
               className=" "
               height={60}

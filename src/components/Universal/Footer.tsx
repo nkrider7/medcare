@@ -15,8 +15,8 @@ export default function Footer() {
                     <div className="lg:col-span-2 flex flex-col items-center lg:items-start">
                         <Link href="/" className="mb-4">
                             <Image
-                                src="/medilogo.webp"
-                                alt="MediHelp"
+                                src="/medcare.webp"
+                                alt="MedCare"
                                 width={300}
                                 height={150}
                                 className="object-contain"
@@ -26,7 +26,7 @@ export default function Footer() {
                             One Destination For All Treatment
                         </p>
                         <p className="mb-6 mt-2 text-myblue font-semibold text-center lg:text-left">
-                           +91 98971 86585
+                           +91 987654321
                         </p>
                         <SocialLinks />
                         <div className="mt-6">
@@ -110,9 +110,9 @@ export default function Footer() {
 
             {/* Bottom Section */}
             <div className="border-t mt-12 py-4 text-center text-sm ">
-                <p>
-                    © 2025 Present <span className="font-semibold text-myblue">MediHelp</span>. All rights reserved.
-                </p>
+                <a href="https://github.com/nkrider7">
+                    © 2025 Present <span className="font-semibold text-myblue">@nkriderking</span>. All rights reserved.
+                </a>
             </div>
         </footer>
     );
@@ -121,19 +121,19 @@ export default function Footer() {
 const SocialLinks = () => (
     <div className="flex justify-center lg:justify-start gap-4">
         <SocialLink
-            href="https://www.facebook.com/profile.php?id=100040951937272&mibextid=ZbWKwL"
+            href="https://www.facebook.com"
             icon={<Facebook size={20} />}
         />
         <SocialLink
-            href="https://www.instagram.com/medihelpglobal/profilecard/?igsh=MWJhejJ0cTd0cmd3aA=="
+            href="https://www.instagram.com"
             icon={<Instagram size={20} />}
         />
         <SocialLink
-            href="https://youtube.com/@medihelpglobal?si=6ejgn6QYEyJWhE-p"
+            href="https://youtube.com"
             icon={<Youtube size={20} />}
         />
         <SocialLink
-            href="mailto:help@medihelpglobal.com"
+            href="mailto:help@MedCareglobal.com"
             icon={<Mail size={20} />}
         />
     </div>

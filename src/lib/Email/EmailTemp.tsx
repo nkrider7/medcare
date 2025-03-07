@@ -21,7 +21,7 @@ export const EmailTemp: React.FC<Readonly<EmailTempProps>> = ({ name, email, cou
       <Html lang="en">
         <Container className="mx-auto my-0 max-w-lg p-6 bg-white shadow-lg rounded-lg">
           <Heading className="text-2xl font-semibold text-brand text-center mb-6">
-            Patient Details for MediHelp
+            Patient Details for MedCare
           </Heading>
 
           <div className="space-y-2 w-full">
@@ -68,7 +68,7 @@ export const EmailTemp: React.FC<Readonly<EmailTempProps>> = ({ name, email, cou
           </div>
 
           <Text className="text-center text-sm text-green-400 mt-6">
-            Thank you for choosing MediHelp!
+            Thank you for choosing MedCare!
           </Text>
         </Container>
       </Html>

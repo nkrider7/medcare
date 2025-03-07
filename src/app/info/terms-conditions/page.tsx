@@ -10,12 +10,12 @@ const terms: Term[] = [
 	{
 		title: "1. Introduction",
 		content:
-		  "Welcome to MediHelp. By using our platform and services, you agree to these Terms and Conditions. Please read them carefully as they govern your use of our healthcare services and website."
+		  "Welcome to MedCare. By using our platform and services, you agree to these Terms and Conditions. Please read them carefully as they govern your use of our healthcare services and website."
 	  },
 	  {
 		title: "2. Services",
 		content:
-		  "MediHelp provides medical consultation, treatment facilitation, telemedicine services, and health-related resources. Our services aim to connect you with healthcare professionals and facilities to meet your medical needs."
+		  "MedCare provides medical consultation, treatment facilitation, telemedicine services, and health-related resources. Our services aim to connect you with healthcare professionals and facilities to meet your medical needs."
 	  },
 	  {
 		title: "3. Payment Terms",
@@ -30,7 +30,7 @@ const terms: Term[] = [
 	  {
 		title: "5. Limitation of Liability",
 		content:
-		  "MediHelp is not liable for any indirect, incidental, or consequential damages resulting from the use of our platform or services. Our role is limited to facilitating medical services and consultations."
+		  "MedCare is not liable for any indirect, incidental, or consequential damages resulting from the use of our platform or services. Our role is limited to facilitating medical services and consultations."
 	  },
 	  {
 		title: "6. Termination",
@@ -50,11 +50,11 @@ const terms: Term[] = [
 	  {
 		title: "9. Emergency Disclaimer",
 		content:
-		  "MediHelp is not a substitute for emergency medical services. In case of a medical emergency, please contact your local emergency services immediately."
+		  "MedCare is not a substitute for emergency medical services. In case of a medical emergency, please contact your local emergency services immediately."
 	  },
 	  {
 		title: "10. Contact Information",
-		content: "For questions or concerns, contact us at help@medihelpglobal.com."
+		content: "For questions or concerns, contact us at help@MedCareglobal.com."
 	  }
 ];
 

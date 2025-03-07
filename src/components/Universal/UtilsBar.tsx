@@ -80,7 +80,7 @@ export default function UtilsBar() {
         <div className='bg-myblue text-white h-fit flex justify-between items-center'>
             <div className='ml-4 flex'>
                 {/* <h1 className='text-sm hidden md:block'>We Are Providing Best Services And Facility! </h1> */}
-                <h1 className='text-sm ml-1 font-semibold'>For any support 📞 +91 98971 86585</h1>
+                <h1 className='text-sm ml-1 font-semibold'>For any support 📞 +91 987654 3210</h1>
             </div>
             <div className='flex'>
                 <nav className=" hidden md:flex items-center gap-2.5 ">
